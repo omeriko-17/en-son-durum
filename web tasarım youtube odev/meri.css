@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    padding: 0 15 ;  
+    
+}
+.header a{
+    margin-right: 650px;
+    
+}
+
+.header h3 {
+    float: right;
+    border-style: solid;color: grey;
+    border-radius: 20px;
+    padding: 10 
+    
+}
+.header h3:hover{  
+    background-color: #81C6E8
+}
+.sidebar ul{
+    padding-left:20 ;
+}
+.sidebar ul li{
+    display: block;
+    padding:15 15 15 15
+    
+}
+.sidebar ul li a{
+    text-decoration: none;
+}
+.reklam{
+
+}
+
+.content{
+
+}
